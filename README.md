@@ -6,6 +6,3 @@ A software engineer at UCF
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me benjaminmingst@outlook.com
 
-Languages and Tools:
-
-https://flutter.dev/
