@@ -6,8 +6,8 @@ A software engineer at UCF
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me benjaminmingst@outlook.com
 
-#Languages and Tools
-https://www.cprogramming.com/
+Languages and Tools
+C
 
 <!---
 BenMingst/BenMingst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
