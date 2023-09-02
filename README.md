@@ -1,4 +1,5 @@
 - 👋 Hello, I’m @BenjaminMingst
+- 💻 My most recent completed project Stride Squad (1st place in 2023 KnightHacks projects)
 - 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me benjaminmingst@outlook.com
