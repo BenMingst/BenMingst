@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin Mingst</h1>
 <h3 align="center">An aspiring software engineer at UCF.</h3>
 
-- 🌱 I’m currently learning **Data structures and**
+- 🌱 I’m currently learning **Data structures and Mobile development**
 
 - 👨‍💻 All of my projects are available at [https://devpost.com/BenMingst?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav](https://devpost.com/BenMingst?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/benjamin mingst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin mingst" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/benjamin-mingst-27681024a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjamin-mingst-27681024a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,3 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=benmingst&show_icons=true&locale=en&layout=compact" alt="benmingst" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benmingst&" alt="benmingst" /></p>
+
